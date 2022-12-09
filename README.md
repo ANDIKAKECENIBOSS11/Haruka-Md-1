@@ -53,9 +53,9 @@ npm start
 ## Edit file
 `./config.json`
 ```{
-    "ownerNumber": ["6285342106390@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
+    "ownerNumber": ["6281212529633@s.whatsapp.net","6283879907168@s.whatsapp.net"],
+    "ownerName": "DIKZZSTORE",
+    "instagram" : "https://instagram.com/tzy_prohengker",",
     "botName": "Haruka-Mdོ ",
     "footer": "api.zeeoneofc.xyz",
     "sessionName": "session",
@@ -84,14 +84,9 @@ npm start
 </p>
 
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
+- [Dana](https://link.dana.id/qr/5wbfu1f4.jpg)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
+- [Group 1](https://chat.whatsapp.com/Gk9t2W3KTYKE35ofG2dMXO)
+
 
